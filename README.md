@@ -1,6 +1,6 @@
 # Django Todo List
 
-This folder contains project code for the _Real Python_ step-by-step project for building a to-do app with Django.
+This folder contains project code for  building a to-do app with Django.
 
 ## Setup Instructions
 
